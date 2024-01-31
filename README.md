@@ -14,7 +14,7 @@ The installation will be performed on a Windows 10 Pro system.
 <h2>Installation Steps</h2>
 Let's get started with the installation process:
 
-![image](https://github.com/itnatepena/osticket-prereqs/assets/147539410/d723936c-d049-4209-be45-7889f1734254)
+![image](https://github.com/Jovan281196/osticket-prereqs/assets/147539410/d723936c-d049-4209-be45-7889f1734254)
 
 
 1. **Enable Internet Information Services (IIS)**: 
